@@ -1,7 +1,7 @@
 "use client";
 
 import React, { useState } from 'react';
-import { Book, Calendar, Heart, User, Settings, Info, PlayCircle, ChevronRight, Moon, Sun, Star, ArrowRight } from 'lucide-react';
+import { Heart, ChevronRight, Moon, Star, ArrowRight } from 'lucide-react';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
 import { Alert, AlertDescription, AlertTitle } from '@/components/ui/alert';
 
